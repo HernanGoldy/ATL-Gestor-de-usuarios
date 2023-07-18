@@ -1,6 +1,4 @@
 ## Gestión de Usuarios - ATL Academy
-
-***
  
 ### Módulo 5 - Clase 11
 
